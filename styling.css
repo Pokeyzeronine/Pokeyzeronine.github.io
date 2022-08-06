@@ -6,4 +6,6 @@ body {
 
 .box {
    background-color: black;
+   left: 50%;
+   bottom: 20%;
 }
